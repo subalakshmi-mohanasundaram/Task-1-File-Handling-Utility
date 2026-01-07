@@ -47,4 +47,3 @@ This task helped in gaining practical experience with Java file handling operati
 
 ## Output
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c06e953d-e3cd-4295-8387-9e9dca608ce7" />
